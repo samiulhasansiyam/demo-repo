@@ -1,0 +1,16 @@
+.header1{
+    background-color: brown;
+    text-align: center;
+    height: 200px;
+   
+}
+.header2{
+    align-items: center;
+    justify-content: center;
+}
+.footer{
+    height: 150px;
+    background-color: burlywood;
+    
+}
+
